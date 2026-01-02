@@ -2,7 +2,7 @@
 title: Available Documentation Versions
 content_type: custom
 layout: supported-versions
-weight: 10
+weight: 101
 ---
 
 This website contains documentation for the current version of Kubernetes
